@@ -1,3 +1,4 @@
 - 👋 Hey this is @KZ0PHA
-- Currently learning Python, SQL and tableau to get into the data field.
+- New to GitHub, currently learning SQL, Python and tableau to equip myself with all the skills required to get into a Data Analyst position.
+- 
 
