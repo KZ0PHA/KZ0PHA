@@ -6,5 +6,4 @@ I started learning SQL, Python and PowerBI last year (2022) and is currently bui
 
 Passionate about problem-solving and learning (tech, supply chain management, languages etc.) 
 
-I love phtography and bird-watching with my husband in my free time (check out my website: www.peppermintarts.com) 
-
+I love phtography and bird-watching in my free time (check out my website: www.peppermintarts.com) 
